@@ -8,9 +8,7 @@ This repository contains a data analysis project on Online Video Games. The anal
 
 The Tableau dashboard developed for this project provides interactive visualizations of the analyzed data. It allows you to explore various aspects of online video games, such as genres, release dates, ratings, and more. You can access the Tableau dashboard at the following link:
 
-Tableau Dashboard: https://public.tableau.com/app/profile/prem.mandal/viz/Videogameanalysis_16891822110230/Dashboard1
-
-Visit my Tableau Public and explore and learn : https://public.tableau.com/app/profile/prem.mandal
+[Link to Tableau Dashboard]
 
 ## PROJECT NAME:
 
